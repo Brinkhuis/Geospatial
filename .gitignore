@@ -2,3 +2,5 @@ api_key.txt
 debug.log
 .ipynb_checkpoints
 .vscode
+shapefiles/overig/*.*
+shapefiles/csv/*.*
